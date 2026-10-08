@@ -28,9 +28,9 @@ The purpose of this portfolio is to demonstrate practical GRC competencies inclu
 | Document | Type | Status |
 | :---: | :---: | :---: |
 | Acceptable Use Policy | Policy | Published |
-| Information Security Policy | Policy | Coming soon |
-| Risk Register and Risk Treatment Plan | Risk Management | Coming soon |
-| Access Control Policy | Policy | Coming soon |
+| Information Security Policy | Policy | Published |
+| Risk Register and Risk Treatment Plan | Risk Management | Published |
+| Access Control Policy | Policy | Published |
 | Incident Response Policy and Procedure | Policy and Procedure | Coming soon |
 | ISO 27001 Statement of Applicability | Audit Readiness | Coming soon |
 | Internal Audit Report | Audit | Coming soon |
